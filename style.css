@@ -11,7 +11,7 @@ img{
     filter:hue-rotate(50deg);
 }	
 
-.brigntness img:hover{
+.Brightness img:hover{
     filter:brightness(2);
 }	
 
