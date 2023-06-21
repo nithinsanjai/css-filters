@@ -1,0 +1,33 @@
+img{
+    height:400px;
+	width:400px;
+}
+	
+.blur img:hover{
+    filter:blur(5px)
+}
+
+.hue img:hover{
+    filter:hue-rotate(50deg);
+}	
+
+.brigntness img:hover{
+    filter:brightness(2);
+}	
+
+.grayscale img:hover{
+    filter:grayscale(70%);
+}	
+
+.invert img:hover{
+    filter:invert(50%);
+}	
+
+.saturate img:hover{
+    filter:saturate(4);
+}
+	
+.sepia img:hover{
+	filter:sepia(70%);
+}		
+	
